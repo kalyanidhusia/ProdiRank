@@ -1,0 +1,14 @@
+name: prodirank-py
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - matplotlib
+  - scipy
+  - scikit-learn
+  - rdkit
+  - openpyxl
+  - jupyterlab
+  - ipykernel

@@ -1,0 +1,13 @@
+name: prodirank-r
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - r-base=4.3
+  - r-irkernel
+  - r-tidyverse
+  - r-readxl
+  - r-writexl
+  - r-drc
+  - bioconductor-fgsea
+  - r-msigdbr
