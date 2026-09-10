@@ -126,9 +126,9 @@ Path:
 
 Markdown embed placeholder:
 
-```markdown
+markdown
 ![Figure 1. ProdiRank rationale](./outputs/figures/Figure1_ProdiRank_rationale_v1.png)
-```
+
 
 Purpose: summarizes the comparator-informed rationale and how the computational layer supports wet-lab prioritization.
 
