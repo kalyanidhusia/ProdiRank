@@ -124,9 +124,8 @@ Path:
 ./outputs/figures/Figure1_ProdiRank_rationale_v1.png
 ```
 
-Markdown embed placeholder:
+# .
 
-markdown
 ![Figure 1. ProdiRank rationale](./outputs/figures/Figure1_ProdiRank_rationale_v1.png)
 
 
