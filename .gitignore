@@ -27,3 +27,10 @@ __pycache__/
 *.dcd
 *.xtc
 *.trr
+.DS_Store
+
+# Large external datasets
+data/external/*.csv
+data/external/*.xlsx
+data/external/*.tsv
+data/external/*.zip

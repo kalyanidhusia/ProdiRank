@@ -1,0 +1,21 @@
+Gene,Group,Spearman r,FDR,Published r (DepMap),Significance
+BCL2L2,BCL2 family,0.19,3.45e-05,—,***
+BCL2L1,BCL2 family,0.114,0.0172,—,*
+BCL2A1,BCL2 family,-0.17,0.000247,—,***
+BAK1,BCL2 family,-0.071,0.159,—,ns
+MCL1,BCL2 family,-0.037,0.509,—,ns
+BCL2,BCL2 family,-0.023,0.699,—,ns
+BAX,BCL2 family,-0.002,0.977,—,ns
+NIBAN3,Top anti-correlate,0.015,0.813,-0.42,ns
+IQSEC2,Top correlate,0.212,3.63e-06,0.42,***
+NHSL3,Top correlate,0.179,0.000101,0.45,***
+ASPH,Top correlate,0.121,0.0108,0.43,*
+LMNA,Top correlate,0.094,0.0542,0.43,ns
+SDC4,Top correlate,0.091,0.0637,0.46,ns
+CAPN2,Top correlate,0.077,0.121,0.43,ns
+CD151,Top correlate,0.073,0.146,0.42,ns
+MYOF,Top correlate,0.042,0.443,0.42,ns
+TNFRSF12A,Top correlate,0.024,0.681,0.42,ns
+TOP1,Topoisomerase,-0.101,0.0359,—,*
+TOP2B,Topoisomerase,-0.071,0.162,—,ns
+TOP2A,Topoisomerase,-0.028,0.629,—,ns
