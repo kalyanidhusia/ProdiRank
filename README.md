@@ -6,7 +6,7 @@
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/)
 [![RDKit](https://img.shields.io/badge/RDKit-2023.03-green.svg)](https://www.rdkit.org/)
 
-> AR INBRE Pilot Project | UAMS × OBU  
+> AR INBRE Pilot Project | UAMS × UALR 
 > **Mentor/PI:** Kalyani Dhusia, Ph.D. · UAMS Department of Physiology & Cell Biology · AR INBRE Data Science Core  
 > **Project Leader:** Brian Walker, Ph.D. · UALR Department of Chemistry  
 > **Collaborator:** Robert Griffin, Ph.D. · UAMS Radiation Oncology · Winthrop P. Rockefeller Cancer Institute
