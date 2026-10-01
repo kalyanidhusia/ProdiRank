@@ -8,7 +8,7 @@
 
 > AR INBRE Pilot Project | UAMS × OBU  
 > **Mentor/PI:** Kalyani Dhusia, Ph.D. · UAMS Department of Physiology & Cell Biology · AR INBRE Data Science Core  
-> **Project Leader:** Brian Walker, Ph.D. · OBU Department of Chemistry  
+> **Project Leader:** Brian Walker, Ph.D. · UALR Department of Chemistry  
 > **Collaborator:** Robert Griffin, Ph.D. · UAMS Radiation Oncology · Winthrop P. Rockefeller Cancer Institute
 
 ---
