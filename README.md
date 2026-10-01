@@ -19,7 +19,7 @@ ProdiRank is a computational decision framework that integrates three independen
 
 | Stream | Source | Key output |
 |---|---|---|
-| Compound/activity data | Walker laboratory (OBU) | 13 SMILES-validated prodiginine analogues; BW1 dimer CCK-8 EC50 |
+| Compound/activity data | Walker laboratory (UALR) | 13 SMILES-validated prodiginine analogues; BW1 dimer CCK-8 EC50 |
 | Cancer pharmacogenomics | GDSC1 (651 cell lines) | BCL2L2 r=0.190 as top obatoclax sensitivity correlate |
 | Structure-informed cheminformatics | PDB, AlphaFold, RDKit | MCDA-ranked synthesis/testing decision matrix |
 
